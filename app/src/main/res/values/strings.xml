@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyTrivia</string>
+    <string name="trivia">Trivia</string>
+    <string name="textView">0 of 0</string>
+    <string name="button_true">True</string>
+    <string name="button_false">False</string>
+    <string name="answer_correct">Correct!</string>
+    <string name="answer_wrong">Wrong!</string>
+
+    <string name="tvStatement1">This is the place where the statements will be shown ....</string>
+</resources>
